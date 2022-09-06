@@ -10,7 +10,6 @@ function App() {
     })();
   }, [])
 
-  const value = 'World';
   return <div>Hello! <br /> {data}</div>;
 }
 
